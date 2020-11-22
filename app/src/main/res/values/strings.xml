@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Fitness2</string>
+    <string name="new_exercise">New Exercise</string>
+    <string name="part_spinner_label">Choose your body part you with to train</string>
+    <string name="intensity_spinner_label">Choose how intense/difficult you wish</string>
+    <string name="search_button">Search</string>
+    <string-array name="part">
+        <item>Abs</item>
+        <item>Ankles</item>
+        <item>Back</item>
+        <item>Biceps</item>
+        <item>Calves</item>
+        <item>Chest</item>
+        <item>Core</item>
+        <item>HamStrings</item>
+        <item>Hip Flexors</item>
+        <item>Neck</item>
+        <item>Obliques</item>
+        <item>Quads</item>
+        <item>Shoulders</item>
+        <item>Triceps</item>
+        <item>Wrists</item>
+    </string-array>
+    <string-array name="intensity">
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Advanced</item>
+        <item>Extreme</item>
+    </string-array>
+</resources>
